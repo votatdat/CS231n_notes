@@ -9,5 +9,8 @@
 /__pycache__
 
 #Others
+/Additional_info/*.npy
+/Additional_info/*.npz
+
 
 #Plot pictures
