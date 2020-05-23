@@ -4,6 +4,7 @@
 #Jupyter checkpoints
 /.ipynb_checkpoints
 /Additional_info/.ipynb_checkpoints
+/Additional_info/Basic_Keras/.ipynb_checkpoints
 
 #Python cache
 /__pycache__
